@@ -1,6 +1,6 @@
 # Project: Responsive Design (with The Next Web)
 
-Project to practice building a reponsive website (The Next Web) for The Odin Project's [Project: Responsive Design (with The Next Web).](http://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-responsive-design)
+Project to practice building a reponsive website (The Next Web) from The Odin Project's [Project: Responsive Design (with The Next Web).](http://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-responsive-design)
 
 The site uses media queries to degrade itself as the window size is reduced.
 
